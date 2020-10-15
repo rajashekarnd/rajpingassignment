@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 1rem;
+    height:100vh;
+}
+.Ping{
+    margin-top: 22px;
+    font-size: 24px;
+    padding-left: 52%;
+    font-weight:bolder;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.launch{
+    padding-left: 40%;
+    font-size: 2.5rem;
+    color:gray;
+    margin-bottom:20px;
+    font-family:Arial, Helvetica, sans-serif ; 
+}
+span{
+    color: black;
+    font-weight: bold;
+
+}
+.raw{
+    padding-left:46%;
+    margin-bottom: 20px;
+}
+.extract{
+ padding-left:40% ;
+ margin-bottom: 38px;
+}
+input{
+    width:320px;
+    height:40px;
+    padding-left: 20px;
+    border-radius: 20px;
+    outline:none;
+    border-color:lightgray;
+}
+button{
+    width:100px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 20px;
+    border-color: lightgray;
+    background-color: rgb(52, 180, 231);
+   color: white;
+}
+.image{
+    padding-left: 200px;
+    height:60px;
+}
+.section1{
+    padding-top:19rem;
+}
+footer{
+    padding-left:26rem;
+}
